@@ -17,5 +17,5 @@
 
  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tayama-Kirati&" alt="Tayama-Kirati" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tayama-Kirati&" alt="Tayama-Kirati" /></p> -->
 
